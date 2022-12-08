@@ -1,0 +1,19 @@
+body {
+    background-color: #18324b;
+}
+li,td,p {
+    color: #e5f9d2;
+}
+h1,h3,th,label {
+    color: #d4ff00;
+}
+
+hr {
+    background-color: transparent;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #020706;
+    border-width: 5px;
+    width: 5%;
+
+}
