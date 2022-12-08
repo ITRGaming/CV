@@ -1,0 +1,20 @@
+/**********************Tag Seletors**********************/
+h1 {
+    color: red;
+    font-size: 200px;
+}
+img:hover {
+    background-color: gold;
+}
+
+/**********************Class Seletors**********************/
+.fries {
+    background-color: green;
+}
+.broccoli{
+    background-color: red;
+}
+/**********************ID Seletors**********************/
+#heading {
+    color: blue;
+}

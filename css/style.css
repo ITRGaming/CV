@@ -17,3 +17,11 @@ hr {
     width: 5%;
 
 }
+.ITRlogo{
+    border-radius: 100%;
+    transition: transform  0.5s  ease;
+}
+.ITRlogo:hover{
+    box-sizing: border-box;
+    transform: scale(1.2,1.2);    
+}
